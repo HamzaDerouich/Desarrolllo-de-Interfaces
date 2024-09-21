@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAD9549-E12C-4CDC-84DD-630189D4EE09}|Proyecto3\\Proyecto3.csproj|c:\\users\\usuario\\source\\repos\\proyecto3\\proyecto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DAD9549-E12C-4CDC-84DD-630189D4EE09}|Proyecto3\\Proyecto3.csproj|solutionrelative:proyecto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAD9549-E12C-4CDC-84DD-630189D4EE09}|Proyecto3\\Proyecto3.csproj|c:\\users\\usuario\\source\\repos\\proyecto3\\proyecto3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAD9549-E12C-4CDC-84DD-630189D4EE09}|Proyecto3\\Proyecto3.csproj|solutionrelative:proyecto3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto3\\Proyecto3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto3\\Proyecto3\\Form1.Designer.cs",
+              "RelativeToolTip": "Proyecto3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:30:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto3\\Proyecto3\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto3\\Proyecto3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:30:21.715Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

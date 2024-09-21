@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\bin\Debug\net8.0-windows\Proyecto4.exe
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\bin\Debug\net8.0-windows\Proyecto4.deps.json
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\bin\Debug\net8.0-windows\Proyecto4.runtimeconfig.json
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\bin\Debug\net8.0-windows\Proyecto4.dll
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\bin\Debug\net8.0-windows\Proyecto4.pdb
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.dll
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\refint\Proyecto4.dll
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.pdb
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\ref\Proyecto4.dll
+C:\Users\Usuario\source\repos\Proyecto4\Proyecto4\obj\Debug\net8.0-windows\Proyecto4.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\bin\Debug\Practica_6_19S.exe.config
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\bin\Debug\Practica_6_19S.exe
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\bin\Debug\Practica_6_19S.pdb
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.Form1.resources
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.exe
+C:\Users\Usuario\source\repos\Practica_6_19S\Practica_6_19S\obj\Debug\Practica_6_19S.pdb

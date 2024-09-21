@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\bin\Debug\net8.0-windows\Proyecto5.exe
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\bin\Debug\net8.0-windows\Proyecto5.deps.json
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\bin\Debug\net8.0-windows\Proyecto5.runtimeconfig.json
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\bin\Debug\net8.0-windows\Proyecto5.dll
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\bin\Debug\net8.0-windows\Proyecto5.pdb
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.dll
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\refint\Proyecto5.dll
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.pdb
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\Proyecto5.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Proyecto5\Proyecto5\obj\Debug\net8.0-windows\ref\Proyecto5.dll

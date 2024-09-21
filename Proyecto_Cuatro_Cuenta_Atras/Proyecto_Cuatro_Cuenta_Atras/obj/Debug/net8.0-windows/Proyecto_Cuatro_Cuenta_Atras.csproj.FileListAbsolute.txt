@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\bin\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.exe
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\bin\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.deps.json
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\bin\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.runtimeconfig.json
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\bin\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.dll
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\bin\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.pdb
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.dll
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\refint\Proyecto_Cuatro_Cuenta_Atras.dll
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.pdb
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\Proyecto_Cuatro_Cuenta_Atras.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Proyecto_Cuatro_Cuenta_Atras\Proyecto_Cuatro_Cuenta_Atras\obj\Debug\net8.0-windows\ref\Proyecto_Cuatro_Cuenta_Atras.dll
