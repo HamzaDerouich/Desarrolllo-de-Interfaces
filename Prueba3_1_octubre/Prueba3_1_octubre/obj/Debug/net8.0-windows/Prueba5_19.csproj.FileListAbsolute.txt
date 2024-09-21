@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\bin\Debug\net8.0-windows\Prueba5_19.exe
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\bin\Debug\net8.0-windows\Prueba5_19.deps.json
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\bin\Debug\net8.0-windows\Prueba5_19.runtimeconfig.json
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\bin\Debug\net8.0-windows\Prueba5_19.dll
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\bin\Debug\net8.0-windows\Prueba5_19.pdb
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba3_1_octubre.Form1.resources
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.sourcelink.json
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.dll
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\refint\Prueba5_19.dll
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.pdb
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\Prueba5_19.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba3_1_octubre\Prueba3_1_octubre\obj\Debug\net8.0-windows\ref\Prueba5_19.dll
