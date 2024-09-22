@@ -101,6 +101,7 @@
     <Content Include="imagenes\8.JPG" />
     <Content Include="imagenes\9.JPG" />
     <Content Include="imagenes\manzana.jpg" />
+    <Content Include="imagenes\pxfuel.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
