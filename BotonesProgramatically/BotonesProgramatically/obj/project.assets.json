@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\BotonesProgramatically\\BotonesProgramatically\\BotonesProgramatically.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\BotonesProgramatically\\BotonesProgramatically\\BotonesProgramatically.csproj",
       "projectName": "BotonesProgramatically",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\BotonesProgramatically\\BotonesProgramatically\\BotonesProgramatically.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\BotonesProgramatically\\BotonesProgramatically\\BotonesProgramatically.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\BotonesProgramatically\\BotonesProgramatically\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\BotonesProgramatically\\BotonesProgramatically\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

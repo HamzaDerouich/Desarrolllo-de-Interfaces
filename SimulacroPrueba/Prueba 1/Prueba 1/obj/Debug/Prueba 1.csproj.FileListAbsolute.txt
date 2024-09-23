@@ -1,0 +1,20 @@
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\bin\Debug\Prueba 1.exe.config
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\bin\Debug\Prueba 1.exe
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\bin\Debug\Prueba 1.pdb
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba_1.Form1.resources
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba_1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.exe
+C:\Users\Usuario\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.pdb
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\bin\Debug\Prueba 1.exe.config
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\bin\Debug\Prueba 1.exe
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\bin\Debug\Prueba 1.pdb
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba_1.Form1.resources
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba_1.Properties.Resources.resources
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba 1.exe
+C:\Users\Usuario\Documents\Desarrolllo-de-Interfaces\Prueba 1\Prueba 1\obj\Debug\Prueba 1.pdb

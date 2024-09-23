@@ -127,7 +127,6 @@ namespace BotonesProgramatically
 
             }
 
-            textBoxNumeroBotones.Text = ""; // Limpiamos el cuadro de texto 
 
         }
 

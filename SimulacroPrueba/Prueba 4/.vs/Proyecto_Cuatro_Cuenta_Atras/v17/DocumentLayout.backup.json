@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\Proyecto_Cuatro_Cuenta_Atras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8194B656-27CD-4DEE-8D88-3662182C40C2}|Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras.csproj|c:\\users\\usuario\\documents\\desarrolllo-de-interfaces\\proyecto_cuatro_cuenta_atras\\proyecto_cuatro_cuenta_atras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8194B656-27CD-4DEE-8D88-3662182C40C2}|Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras.csproj|solutionrelative:proyecto_cuatro_cuenta_atras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8194B656-27CD-4DEE-8D88-3662182C40C2}|Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\Proyecto_Cuatro_Cuenta_Atras\\proyecto_cuatro_cuenta_atras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8194B656-27CD-4DEE-8D88-3662182C40C2}|Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras.csproj|solutionrelative:proyecto_cuatro_cuenta_atras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto_Cuatro_Cuenta_Atras\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras\\Form1.cs",
+              "RelativeToolTip": "Proyecto_Cuatro_Cuenta_Atras\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:36:46.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto_Cuatro_Cuenta_Atras\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Proyecto_Cuatro_Cuenta_Atras\\Proyecto_Cuatro_Cuenta_Atras\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:33:42.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

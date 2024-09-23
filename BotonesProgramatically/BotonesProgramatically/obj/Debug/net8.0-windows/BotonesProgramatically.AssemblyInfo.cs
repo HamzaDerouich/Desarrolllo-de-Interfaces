@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BotonesProgramatically")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e04fcc6b727fbd2666d91de55235e6820e34120c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BotonesProgramatically")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BotonesProgramatically")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

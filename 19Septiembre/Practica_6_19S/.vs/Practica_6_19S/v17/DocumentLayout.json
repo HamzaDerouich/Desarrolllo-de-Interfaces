@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6EDF0C-2A2A-4734-A6CC-5F84DDF3EC61}|Practica_6_19S\\Practica_6_19S.csproj|c:\\users\\usuario\\documents\\desarrolllo-de-interfaces\\19septiembre\\practica_6_19s\\practica_6_19s\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6EDF0C-2A2A-4734-A6CC-5F84DDF3EC61}|Practica_6_19S\\Practica_6_19S.csproj|solutionrelative:practica_6_19s\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6EDF0C-2A2A-4734-A6CC-5F84DDF3EC61}|Practica_6_19S\\Practica_6_19S.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\practica_6_19s\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6EDF0C-2A2A-4734-A6CC-5F84DDF3EC61}|Practica_6_19S\\Practica_6_19S.csproj|solutionrelative:practica_6_19s\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6EDF0C-2A2A-4734-A6CC-5F84DDF3EC61}|Practica_6_19S\\Practica_6_19S.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\practica_6_19s\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF6EDF0C-2A2A-4734-A6CC-5F84DDF3EC61}|Practica_6_19S\\Practica_6_19S.csproj|solutionrelative:practica_6_19s\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\Practica_6_19S\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Practica_6_19S\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\Practica_6_19S\\Form1.Designer.cs",
+              "RelativeToolTip": "Practica_6_19S\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:38:42.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\Practica_6_19S\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_6_19S\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\Practica_6_19S\\Form1.cs",
+              "RelativeToolTip": "Practica_6_19S\\Form1.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAcwMkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:32:21.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\19Septiembre\\Practica_6_19S\\Practica_6_19S\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_6_19S\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica_6_19S\\Practica_6_19S\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Practica_6_19S\\Practica_6_19S\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:31:12.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
