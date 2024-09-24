@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E592CC-B05D-42C3-9AE9-E7DCBA7C9CF6}|Primitiva\\Primitiva.csproj|c:\\users\\usuario\\source\\repos\\primitiva\\primitiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E592CC-B05D-42C3-9AE9-E7DCBA7C9CF6}|Primitiva\\Primitiva.csproj|solutionrelative:primitiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E592CC-B05D-42C3-9AE9-E7DCBA7C9CF6}|Primitiva\\Primitiva.csproj|C:\\Users\\Usuario\\source\\repos\\Primitiva\\primitiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68E592CC-B05D-42C3-9AE9-E7DCBA7C9CF6}|Primitiva\\Primitiva.csproj|solutionrelative:primitiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E592CC-B05D-42C3-9AE9-E7DCBA7C9CF6}|Primitiva\\Primitiva.csproj|C:\\Users\\Usuario\\source\\repos\\Primitiva\\primitiva\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E592CC-B05D-42C3-9AE9-E7DCBA7C9CF6}|Primitiva\\Primitiva.csproj|solutionrelative:primitiva\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\Primitiva\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Primitiva\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\Primitiva\\Form1.Designer.cs",
+              "RelativeToolTip": "Primitiva\\Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:21:17.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\Primitiva\\Form1.cs",
+              "RelativeDocumentMoniker": "Primitiva\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\Primitiva\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Primitiva\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:42:50.728Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\Primitiva\\Form1.cs",
+              "RelativeDocumentMoniker": "Primitiva\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Primitiva\\Primitiva\\Form1.cs",
+              "RelativeToolTip": "Primitiva\\Form1.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAowD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:38:51.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

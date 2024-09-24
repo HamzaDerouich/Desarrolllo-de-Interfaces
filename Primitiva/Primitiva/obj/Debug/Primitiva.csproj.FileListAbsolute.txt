@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.Form1.resources
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.exe.config
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.exe
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.pdb
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.exe
+C:\Users\Usuario\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.pdb
