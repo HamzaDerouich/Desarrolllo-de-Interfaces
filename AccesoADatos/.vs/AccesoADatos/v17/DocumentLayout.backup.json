@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\accesoadatos\\alturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\alturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\accesoadatos\\conexionbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\conexionbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\accesoadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|c:\\users\\usuario\\documents\\desarrolllo-de-interfaces\\accesoadatos\\accesoadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C95D9C8E-65EF-434A-B0AD-56F67188FDEB}|AccesoADatos\\AccesoADatos.csproj|solutionrelative:accesoadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alturas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\Alturas.cs",
+              "RelativeDocumentMoniker": "AccesoADatos\\Alturas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\Alturas.cs",
+              "RelativeToolTip": "AccesoADatos\\Alturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:58:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\ConexionBaseDatos.cs",
+              "RelativeDocumentMoniker": "AccesoADatos\\ConexionBaseDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\ConexionBaseDatos.cs",
+              "RelativeToolTip": "AccesoADatos\\ConexionBaseDatos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:58:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\Form1.cs",
+              "RelativeDocumentMoniker": "AccesoADatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\Form1.cs",
+              "RelativeToolTip": "AccesoADatos\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:58:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\Form1.cs",
+              "RelativeDocumentMoniker": "AccesoADatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\AccesoADatos\\AccesoADatos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AccesoADatos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:58:08.145Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
