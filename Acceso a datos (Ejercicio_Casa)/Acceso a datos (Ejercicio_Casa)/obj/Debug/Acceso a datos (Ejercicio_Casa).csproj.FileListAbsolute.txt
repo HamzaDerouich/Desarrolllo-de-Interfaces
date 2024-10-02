@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Acceso a datos (Ejercicio_Casa).exe.config
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Acceso a datos (Ejercicio_Casa).exe
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Acceso a datos (Ejercicio_Casa).pdb
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso_a_datos__Ejercicio_Casa_.Form1.resources
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso_a_datos__Ejercicio_Casa_.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).exe
+C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).pdb
