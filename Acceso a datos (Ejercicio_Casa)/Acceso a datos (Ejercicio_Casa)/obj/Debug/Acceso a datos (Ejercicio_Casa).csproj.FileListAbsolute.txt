@@ -8,3 +8,46 @@ C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ej
 C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).exe
 C:\Users\Usuario\source\repos\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).pdb
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Acceso a datos (Ejercicio_Casa).exe.config
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Acceso a datos (Ejercicio_Casa).exe
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Acceso a datos (Ejercicio_Casa).pdb
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Google.Protobuf.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\MySql.Data.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Buffers.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Memory.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\ZstdSharp.dll
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Google.Protobuf.pdb
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Google.Protobuf.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\MySql.Data.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Buffers.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Memory.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.AssemblyReference.cache
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso_a_datos__Ejercicio_Casa_.Form1.resources
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso_a_datos__Ejercicio_Casa_.Properties.Resources.resources
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.GenerateResource.cache
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.CoreCompileInputs.cache
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).csproj.CopyComplete
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).exe
+C:\Users\dam23\Desktop\Desarrolllo-de-Interfaces\Acceso a datos (Ejercicio_Casa)\Acceso a datos (Ejercicio_Casa)\obj\Debug\Acceso a datos (Ejercicio_Casa).pdb

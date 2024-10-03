@@ -30,6 +30,11 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.txtAlturaMin = new System.Windows.Forms.TextBox();
+            this.txtSituacionMin = new System.Windows.Forms.TextBox();
+            this.txtAlturaMax = new System.Windows.Forms.TextBox();
+            this.txtSituacionMax = new System.Windows.Forms.TextBox();
+            this.txtProvincia = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -39,32 +44,27 @@
             this.btnMostrar = new System.Windows.Forms.Button();
             this.dataGridViewAlturas = new System.Windows.Forms.DataGridView();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.txtImagen = new System.Windows.Forms.TextBox();
+            this.txtNivel = new System.Windows.Forms.TextBox();
+            this.txtPassword = new System.Windows.Forms.TextBox();
+            this.txtDni = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtImagenAlt = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAlturas)).BeginInit();
             this.panel2.SuspendLayout();
-            this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.panel4.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -84,11 +84,11 @@
             // panel3
             // 
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel3.Controls.Add(this.textBox5);
-            this.panel3.Controls.Add(this.textBox4);
-            this.panel3.Controls.Add(this.textBox3);
-            this.panel3.Controls.Add(this.textBox2);
-            this.panel3.Controls.Add(this.textBox1);
+            this.panel3.Controls.Add(this.txtAlturaMin);
+            this.panel3.Controls.Add(this.txtSituacionMin);
+            this.panel3.Controls.Add(this.txtAlturaMax);
+            this.panel3.Controls.Add(this.txtSituacionMax);
+            this.panel3.Controls.Add(this.txtProvincia);
             this.panel3.Controls.Add(this.label5);
             this.panel3.Controls.Add(this.label4);
             this.panel3.Controls.Add(this.label3);
@@ -98,6 +98,41 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(605, 212);
             this.panel3.TabIndex = 3;
+            // 
+            // txtAlturaMin
+            // 
+            this.txtAlturaMin.Location = new System.Drawing.Point(291, 170);
+            this.txtAlturaMin.Name = "txtAlturaMin";
+            this.txtAlturaMin.Size = new System.Drawing.Size(291, 20);
+            this.txtAlturaMin.TabIndex = 9;
+            // 
+            // txtSituacionMin
+            // 
+            this.txtSituacionMin.Location = new System.Drawing.Point(291, 133);
+            this.txtSituacionMin.Name = "txtSituacionMin";
+            this.txtSituacionMin.Size = new System.Drawing.Size(291, 20);
+            this.txtSituacionMin.TabIndex = 8;
+            // 
+            // txtAlturaMax
+            // 
+            this.txtAlturaMax.Location = new System.Drawing.Point(291, 96);
+            this.txtAlturaMax.Name = "txtAlturaMax";
+            this.txtAlturaMax.Size = new System.Drawing.Size(291, 20);
+            this.txtAlturaMax.TabIndex = 7;
+            // 
+            // txtSituacionMax
+            // 
+            this.txtSituacionMax.Location = new System.Drawing.Point(291, 59);
+            this.txtSituacionMax.Name = "txtSituacionMax";
+            this.txtSituacionMax.Size = new System.Drawing.Size(291, 20);
+            this.txtSituacionMax.TabIndex = 6;
+            // 
+            // txtProvincia
+            // 
+            this.txtProvincia.Location = new System.Drawing.Point(291, 26);
+            this.txtProvincia.Name = "txtProvincia";
+            this.txtProvincia.Size = new System.Drawing.Size(291, 20);
+            this.txtProvincia.TabIndex = 5;
             // 
             // label5
             // 
@@ -157,6 +192,7 @@
             this.btnInsertar.TabIndex = 2;
             this.btnInsertar.Text = "Insertar";
             this.btnInsertar.UseVisualStyleBackColor = true;
+            this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
             // 
             // btnMostrar
             // 
@@ -166,6 +202,7 @@
             this.btnMostrar.TabIndex = 1;
             this.btnMostrar.Text = "Mostrar";
             this.btnMostrar.UseVisualStyleBackColor = true;
+            this.btnMostrar.Click += new System.EventHandler(this.btnMostrar_Click);
             // 
             // dataGridViewAlturas
             // 
@@ -191,52 +228,55 @@
             this.panel2.Size = new System.Drawing.Size(1230, 537);
             this.panel2.TabIndex = 1;
             // 
-            // textBox1
+            // button1
             // 
-            this.textBox1.Location = new System.Drawing.Point(291, 26);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(291, 20);
-            this.textBox1.TabIndex = 5;
+            this.button1.Location = new System.Drawing.Point(144, 17);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(115, 50);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Insertar";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox2
+            // button2
             // 
-            this.textBox2.Location = new System.Drawing.Point(291, 59);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(291, 20);
-            this.textBox2.TabIndex = 6;
+            this.button2.Location = new System.Drawing.Point(11, 17);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(115, 50);
+            this.button2.TabIndex = 13;
+            this.button2.Text = "Mostrar";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // textBox3
+            // flowLayoutPanel1
             // 
-            this.textBox3.Location = new System.Drawing.Point(291, 96);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(291, 20);
-            this.textBox3.TabIndex = 7;
+            this.flowLayoutPanel1.AutoScroll = true;
+            this.flowLayoutPanel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 291);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1228, 244);
+            this.flowLayoutPanel1.TabIndex = 12;
             // 
-            // textBox4
+            // dataGridView1
             // 
-            this.textBox4.Location = new System.Drawing.Point(291, 133);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(291, 20);
-            this.textBox4.TabIndex = 8;
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(291, 170);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(291, 20);
-            this.textBox5.TabIndex = 9;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(632, 3);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(593, 282);
+            this.dataGridView1.TabIndex = 11;
             // 
             // panel4
             // 
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel4.Controls.Add(this.textBox6);
-            this.panel4.Controls.Add(this.textBox7);
-            this.panel4.Controls.Add(this.textBox8);
-            this.panel4.Controls.Add(this.textBox9);
-            this.panel4.Controls.Add(this.textBox10);
+            this.panel4.Controls.Add(this.txtImagenAlt);
+            this.panel4.Controls.Add(this.label8);
+            this.panel4.Controls.Add(this.txtImagen);
+            this.panel4.Controls.Add(this.txtNivel);
+            this.panel4.Controls.Add(this.txtPassword);
+            this.panel4.Controls.Add(this.txtDni);
             this.panel4.Controls.Add(this.label6);
             this.panel4.Controls.Add(this.label7);
-            this.panel4.Controls.Add(this.label8);
             this.panel4.Controls.Add(this.label9);
             this.panel4.Controls.Add(this.label10);
             this.panel4.Location = new System.Drawing.Point(11, 73);
@@ -244,46 +284,39 @@
             this.panel4.Size = new System.Drawing.Size(605, 212);
             this.panel4.TabIndex = 10;
             // 
-            // textBox6
+            // txtImagen
             // 
-            this.textBox6.Location = new System.Drawing.Point(291, 170);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(291, 20);
-            this.textBox6.TabIndex = 9;
+            this.txtImagen.Location = new System.Drawing.Point(291, 146);
+            this.txtImagen.Name = "txtImagen";
+            this.txtImagen.Size = new System.Drawing.Size(291, 20);
+            this.txtImagen.TabIndex = 9;
             // 
-            // textBox7
+            // txtNivel
             // 
-            this.textBox7.Location = new System.Drawing.Point(291, 133);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(291, 20);
-            this.textBox7.TabIndex = 8;
+            this.txtNivel.Location = new System.Drawing.Point(291, 109);
+            this.txtNivel.Name = "txtNivel";
+            this.txtNivel.Size = new System.Drawing.Size(291, 20);
+            this.txtNivel.TabIndex = 8;
             // 
-            // textBox8
+            // txtPassword
             // 
-            this.textBox8.Location = new System.Drawing.Point(291, 96);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(291, 20);
-            this.textBox8.TabIndex = 7;
+            this.txtPassword.Location = new System.Drawing.Point(291, 59);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(291, 20);
+            this.txtPassword.TabIndex = 6;
             // 
-            // textBox9
+            // txtDni
             // 
-            this.textBox9.Location = new System.Drawing.Point(291, 59);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(291, 20);
-            this.textBox9.TabIndex = 6;
-            // 
-            // textBox10
-            // 
-            this.textBox10.Location = new System.Drawing.Point(291, 26);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(291, 20);
-            this.textBox10.TabIndex = 5;
+            this.txtDni.Location = new System.Drawing.Point(291, 26);
+            this.txtDni.Name = "txtDni";
+            this.txtDni.Size = new System.Drawing.Size(291, 20);
+            this.txtDni.TabIndex = 5;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe Print", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(3, 157);
+            this.label6.Location = new System.Drawing.Point(3, 133);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(102, 37);
             this.label6.TabIndex = 4;
@@ -299,21 +332,11 @@
             this.label7.TabIndex = 3;
             this.label7.Text = "Pasword: ";
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Segoe Print", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(3, 83);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(189, 37);
-            this.label8.TabIndex = 2;
-            this.label8.Text = "Altura Máxima: ";
-            // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe Print", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(3, 120);
+            this.label9.Location = new System.Drawing.Point(3, 96);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(90, 37);
             this.label9.TabIndex = 1;
@@ -329,40 +352,22 @@
             this.label10.TabIndex = 0;
             this.label10.Text = "DNI: ";
             // 
-            // dataGridView1
+            // label8
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(632, 3);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(593, 282);
-            this.dataGridView1.TabIndex = 11;
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Segoe Print", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(3, 170);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(235, 37);
+            this.label8.TabIndex = 10;
+            this.label8.Text = "Imagen Alternativo: ";
             // 
-            // flowLayoutPanel1
+            // txtImagenAlt
             // 
-            this.flowLayoutPanel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 291);
-            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1228, 244);
-            this.flowLayoutPanel1.TabIndex = 12;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(15, 17);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(115, 50);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "Insertar";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(157, 17);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(115, 50);
-            this.button2.TabIndex = 13;
-            this.button2.Text = "Mostrar";
-            this.button2.UseVisualStyleBackColor = true;
+            this.txtImagenAlt.Location = new System.Drawing.Point(291, 183);
+            this.txtImagenAlt.Name = "txtImagenAlt";
+            this.txtImagenAlt.Size = new System.Drawing.Size(291, 20);
+            this.txtImagenAlt.TabIndex = 11;
             // 
             // Form1
             // 
@@ -378,9 +383,9 @@
             this.panel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAlturas)).EndInit();
             this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -398,26 +403,26 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtAlturaMin;
+        private System.Windows.Forms.TextBox txtSituacionMin;
+        private System.Windows.Forms.TextBox txtAlturaMax;
+        private System.Windows.Forms.TextBox txtSituacionMax;
+        private System.Windows.Forms.TextBox txtProvincia;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox txtImagen;
+        private System.Windows.Forms.TextBox txtNivel;
+        private System.Windows.Forms.TextBox txtPassword;
+        private System.Windows.Forms.TextBox txtDni;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.TextBox txtImagenAlt;
+        private System.Windows.Forms.Label label8;
     }
 }
 
