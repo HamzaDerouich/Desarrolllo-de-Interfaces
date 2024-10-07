@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|c:\\users\\usuario\\source\\repos\\examendi\\ejerciciobraintraining\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|solutionrelative:ejerciciobraintraining\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|c:\\users\\usuario\\source\\repos\\examendi\\ejerciciobraintraining\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|solutionrelative:ejerciciobraintraining\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|c:\\users\\usuario\\source\\repos\\examendi\\ejerciciobraintraining\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|solutionrelative:ejerciciobraintraining\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|c:\\users\\usuario\\source\\repos\\examendi\\ejerciciobraintraining\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A177C39-56A7-4469-B303-4526974769C0}|EjercicioBrainTraining\\EjercicioBrainTraining.csproj|solutionrelative:ejerciciobraintraining\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioBrainTraining\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Form1.cs",
+              "RelativeToolTip": "EjercicioBrainTraining\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAvwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:46:19.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Crud.cs",
+              "RelativeDocumentMoniker": "EjercicioBrainTraining\\Crud.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Crud.cs",
+              "RelativeToolTip": "EjercicioBrainTraining\\Crud.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:06:40.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ranking.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Ranking.cs",
+              "RelativeDocumentMoniker": "EjercicioBrainTraining\\Ranking.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Ranking.cs",
+              "RelativeToolTip": "EjercicioBrainTraining\\Ranking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:19:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioBrainTraining\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ExamenDi\\EjercicioBrainTraining\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioBrainTraining\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:39:20.759Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

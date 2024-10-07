@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\bin\Debug\ExamenDi.exe.config
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\bin\Debug\ExamenDi.exe
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\bin\Debug\ExamenDi.pdb
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.Form1.resources
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.exe
+C:\Users\Usuario\source\repos\ExamenDi\ExamenDi\obj\Debug\ExamenDi.pdb
