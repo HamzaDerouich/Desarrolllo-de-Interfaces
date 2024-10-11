@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioFruta
 {
-    internal class Frutas
+    public class Frutas
     {
         private int id;
         private string nombre;

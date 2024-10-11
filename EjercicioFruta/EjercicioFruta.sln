@@ -5,6 +5,44 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioFruta", "EjercicioFruta\EjercicioFruta.csproj", "{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iconos", "Iconos", "{2EA76CE4-EEC3-471B-9156-2CF6FBE00160}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\Iconos Fruteria\agregar-producto.png = ..\..\..\Documents\Iconos Fruteria\agregar-producto.png
+		..\..\..\Documents\Iconos Fruteria\avatar-masculino (1).png = ..\..\..\Documents\Iconos Fruteria\avatar-masculino (1).png
+		..\..\..\Documents\Iconos Fruteria\avatar-masculino.png = ..\..\..\Documents\Iconos Fruteria\avatar-masculino.png
+		..\..\..\Documents\Iconos Fruteria\bloquear.png = ..\..\..\Documents\Iconos Fruteria\bloquear.png
+		..\..\..\Documents\Iconos Fruteria\cesta-de-la-compra.png = ..\..\..\Documents\Iconos Fruteria\cesta-de-la-compra.png
+		..\..\..\Documents\Iconos Fruteria\comida-sana.png = ..\..\..\Documents\Iconos Fruteria\comida-sana.png
+		..\..\..\Documents\Iconos Fruteria\ConectarBD.zip = ..\..\..\Documents\Iconos Fruteria\ConectarBD.zip
+		..\..\..\Documents\Iconos Fruteria\expediente.png = ..\..\..\Documents\Iconos Fruteria\expediente.png
+		..\..\..\Documents\Iconos Fruteria\fruit-5325813__340.png = ..\..\..\Documents\Iconos Fruteria\fruit-5325813__340.png
+		..\..\..\Documents\Iconos Fruteria\fruta.png = ..\..\..\Documents\Iconos Fruteria\fruta.png
+		..\..\..\Documents\Iconos Fruteria\tarjeta.png = ..\..\..\Documents\Iconos Fruteria\tarjeta.png
+		..\..\..\Documents\Iconos Fruteria\user-2935527_1280.png = ..\..\..\Documents\Iconos Fruteria\user-2935527_1280.png
+		..\..\..\Documents\Iconos Fruteria\user-png-icon-user-icons-512.png = ..\..\..\Documents\Iconos Fruteria\user-png-icon-user-icons-512.png
+		..\..\..\Documents\Iconos Fruteria\user-png-icon-young-user-icon-2400.png = ..\..\..\Documents\Iconos Fruteria\user-png-icon-young-user-icon-2400.png
+		..\..\..\Documents\Iconos Fruteria\verduras.png = ..\..\..\Documents\Iconos Fruteria\verduras.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{BF8A9321-A754-4754-8EB9-FBBEB5E024F4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\Iconos Fruteria\agregar-producto.png = ..\..\..\Documents\Iconos Fruteria\agregar-producto.png
+		..\..\..\Documents\Iconos Fruteria\avatar-masculino (1).png = ..\..\..\Documents\Iconos Fruteria\avatar-masculino (1).png
+		..\..\..\Documents\Iconos Fruteria\avatar-masculino.png = ..\..\..\Documents\Iconos Fruteria\avatar-masculino.png
+		..\..\..\Documents\Iconos Fruteria\bloquear.png = ..\..\..\Documents\Iconos Fruteria\bloquear.png
+		..\..\..\Documents\Iconos Fruteria\cesta-de-la-compra.png = ..\..\..\Documents\Iconos Fruteria\cesta-de-la-compra.png
+		..\..\..\Documents\Iconos Fruteria\comida-sana.png = ..\..\..\Documents\Iconos Fruteria\comida-sana.png
+		..\..\..\Documents\Iconos Fruteria\ConectarBD.zip = ..\..\..\Documents\Iconos Fruteria\ConectarBD.zip
+		..\..\..\Documents\Iconos Fruteria\expediente.png = ..\..\..\Documents\Iconos Fruteria\expediente.png
+		..\..\..\Documents\Iconos Fruteria\fruit-5325813__340.png = ..\..\..\Documents\Iconos Fruteria\fruit-5325813__340.png
+		..\..\..\Documents\Iconos Fruteria\fruta.png = ..\..\..\Documents\Iconos Fruteria\fruta.png
+		..\..\..\Documents\Iconos Fruteria\tarjeta.png = ..\..\..\Documents\Iconos Fruteria\tarjeta.png
+		..\..\..\Documents\Iconos Fruteria\user-2935527_1280.png = ..\..\..\Documents\Iconos Fruteria\user-2935527_1280.png
+		..\..\..\Documents\Iconos Fruteria\user-png-icon-user-icons-512.png = ..\..\..\Documents\Iconos Fruteria\user-png-icon-user-icons-512.png
+		..\..\..\Documents\Iconos Fruteria\user-png-icon-young-user-icon-2400.png = ..\..\..\Documents\Iconos Fruteria\user-png-icon-young-user-icon-2400.png
+		..\..\..\Documents\Iconos Fruteria\verduras.png = ..\..\..\Documents\Iconos Fruteria\verduras.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

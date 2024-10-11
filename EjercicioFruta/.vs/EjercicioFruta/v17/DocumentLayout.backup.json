@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|c:\\users\\usuario\\source\\repos\\ejerciciofruta\\ejerciciofruta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|c:\\users\\usuario\\documents\\desarrolllo-de-interfaces\\ejerciciofruta\\ejerciciofruta\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\ejerciciofruta\\frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\ejerciciofruta\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\ejerciciofruta\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\ejerciciofruta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D863FEC-09BC-4EAC-B72A-DFB77FE7F348}|EjercicioFruta\\EjercicioFruta.csproj|solutionrelative:ejerciciofruta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +46,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CRUD.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\CRUD.cs",
-              "RelativeDocumentMoniker": "EjercicioFruta\\CRUD.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\CRUD.cs",
-              "RelativeToolTip": "EjercicioFruta\\CRUD.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwC4AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Cesta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Cesta.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Cesta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Cesta.cs",
+              "RelativeToolTip": "EjercicioFruta\\Cesta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwGgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:21:08.225Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-11T01:31:58.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cesta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Cesta.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Cesta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Cesta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Cesta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:31:54.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Registro.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Registro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Registro.cs",
+              "RelativeToolTip": "EjercicioFruta\\Registro.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:00:49.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Form1.cs",
-              "RelativeDocumentMoniker": "EjercicioFruta\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Form1.cs",
-              "RelativeToolTip": "EjercicioFruta\\Form1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwCwAAAAfAAAAAAAAAA==",
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Registro.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Registro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioFruta\\Registro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:30:08.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Frutas.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Frutas.cs",
-              "RelativeDocumentMoniker": "EjercicioFruta\\Frutas.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Frutas.cs",
-              "RelativeToolTip": "EjercicioFruta\\Frutas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:20:02.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Form1.cs",
-              "RelativeDocumentMoniker": "EjercicioFruta\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EjercicioFruta\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:16:45.853Z",
+              "WhenOpened": "2024-10-11T01:00:47.46Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Program.cs",
+              "RelativeToolTip": "EjercicioFruta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:54:00.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Usuario.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Usuario.cs",
+              "RelativeToolTip": "EjercicioFruta\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:56:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\CRUD.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\CRUD.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\CRUD.cs",
+              "RelativeToolTip": "EjercicioFruta\\CRUD.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwGYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:51:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Login.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Login.cs",
+              "RelativeToolTip": "EjercicioFruta\\Login.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:50:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Desarrolllo-de-Interfaces\\EjercicioFruta\\EjercicioFruta\\Login.cs",
+              "RelativeDocumentMoniker": "EjercicioFruta\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EjercicioFruta\\EjercicioFruta\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:50:51.415Z"
             }
           ]
         }

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Drawing;
 using System.IO;
+using System.Windows.Forms;
 
 namespace EjercicioFruta
 {
@@ -67,8 +68,73 @@ namespace EjercicioFruta
             return null;
         }
 
+        public int InsertarUsuario(Usuario usuario)
+        {
+            int insertado = 0;
+            connection.ConnectionString= this.ruta;
+            connection.Open();
+            String cosultaSql = "INSERT INTO usuarios VALUES(@login, @password)";
+            try
+            {
+
+                using (command = new MySqlCommand(cosultaSql, connection))
+                {
+                    command.Parameters.AddWithValue("@login",usuario.Nombre);
+                    command.Parameters.AddWithValue("@password",usuario.Contraseña);
+                    insertado = command.ExecuteNonQuery();
+
+                }
+
+            }catch(IOException e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+
+            return insertado;
+        }
+
+        public List<Usuario> ObtenerUsuarios()
+        {
+            try
+            {
+
+                List<Usuario> listado_usuarios = new List<Usuario>();
+                connection.ConnectionString = this.ruta;
+                connection.Open();
+
+                string consulta = "SELECT * FROM usuarios";
+
+                using (command = new MySqlCommand(consulta, connection))
+                {
+                    reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        Usuario usuario = new Usuario();
+                        usuario.Nombre = (string)reader["login"];
+                        usuario.Contraseña = (string)reader["password"];
+
+                        listado_usuarios.Add(usuario);
+
+                    }
+                }
+
+                reader.Close();
+                connection.Close();
+
+
+                return listado_usuarios;
+
+            }
+            catch (IOException ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+
+            return null;
+        }
 
     }
 
-
 }
+
+

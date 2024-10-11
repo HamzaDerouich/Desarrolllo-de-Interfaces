@@ -41,3 +41,8 @@ C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioF
 C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\Ejercici.ECF7F846.Up2Date
 C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.exe
 C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.pdb
+C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.Login.resources
+C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.Registro.resources
+C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.Menu.resources
+C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.Catalogo.resources
+C:\Users\Usuario\source\repos\EjercicioFruta\EjercicioFruta\obj\Debug\EjercicioFruta.Cesta.resources
