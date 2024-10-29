@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Cinesa||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\informacionpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\informacionpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\informacionsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\informacionsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\informacionsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\informacionsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\informacionpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\informacionpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\clases\\claseconectar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\clases\\claseconectar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\clases\\clasesala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\clases\\clasesala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|C:\\Users\\Usuario\\source\\repos\\Cinesa\\cinesa\\clases\\clasefacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|solutionrelative:cinesa\\clases\\clasefacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC9C44A-4CAE-41F2-92C1-B1479C561247}|Cinesa\\Cinesa.csproj|c:\\users\\usuario\\source\\repos\\cinesa\\cinesa\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cesta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\Cesta.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\Cesta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\Cesta.cs",
+              "RelativeToolTip": "Cinesa\\Formularios\\Cesta.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAArwGwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:35:44.331Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cinesa",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Cinesa.csproj",
+              "RelativeDocumentMoniker": "Cinesa\\Cinesa.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Cinesa.csproj",
+              "RelativeToolTip": "Cinesa\\Cinesa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-29T18:35:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InformacionSalas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionSalas.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\InformacionSalas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionSalas.cs",
+              "RelativeToolTip": "Cinesa\\Formularios\\InformacionSalas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:25:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClaseFacturacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Clases\\ClaseFacturacion.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Clases\\ClaseFacturacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Clases\\ClaseFacturacion.cs",
+              "RelativeToolTip": "Cinesa\\Clases\\ClaseFacturacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:54:07.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\FormPrincipal.cs",
+              "RelativeToolTip": "Cinesa\\Formularios\\FormPrincipal.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:10:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cinesa\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:10:29.286Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaseSala.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Clases\\ClaseSala.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Clases\\ClaseSala.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Clases\\ClaseSala.cs",
+              "RelativeToolTip": "Cinesa\\Clases\\ClaseSala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:45:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaseConectar.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Clases\\ClaseConectar.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Clases\\ClaseConectar.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Clases\\ClaseConectar.cs",
+              "RelativeToolTip": "Cinesa\\Clases\\ClaseConectar.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwEsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:33:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InformacionPeliculas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionPeliculas.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\InformacionPeliculas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionPeliculas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cinesa\\Formularios\\InformacionPeliculas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:29:20.767Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformacionSalas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionSalas.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\InformacionSalas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionSalas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cinesa\\Formularios\\InformacionSalas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:23:06.679Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InformacionPeliculas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionPeliculas.cs",
+              "RelativeDocumentMoniker": "Cinesa\\Formularios\\InformacionPeliculas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Cinesa\\Cinesa\\Formularios\\InformacionPeliculas.cs",
+              "RelativeToolTip": "Cinesa\\Formularios\\InformacionPeliculas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:38:27.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
